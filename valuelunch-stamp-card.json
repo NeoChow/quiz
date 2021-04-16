@@ -1,0 +1,68 @@
+{
+   "participant_tag_name":"202102_VLMOP_Participant",
+   "lcpf":"ValueLunch_2102",
+   "campaign_end":"2021-04-16T14:00:00+09:00",
+   "term_url": "https://www.mcdonalds.co.jp/private/value-lunch-terms-and-conditions/?m=1",
+   "faq_url": "https://www.mcdonalds.co.jp/private/value-lunch-faq/?m=1",
+   "products":[
+      "800043",
+      "800045",
+      "800046",
+      "800047",
+      "800048"
+   ],
+   "images":{
+      "bg_vs_auth": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/bg_vs_auth.png?t=202104142324",
+      "bg_vs_header": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/bg_vs_header.png?t=202104122324",
+      "bg_vs_tutorial_1": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/bg_vs_tutorial_1.png?t=202104122324",
+      "bg_vs_tutorial_2": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/bg_vs_tutorial_2.png?t=202104122324",
+      "ico_vs_stamp_left": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp_left.png?t=202104122324",
+      "ico_vs_stamp_right": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp_right.png?t=202104122324"
+   },
+   "auth":{
+      "title_enter_campaign": "キャンペーンのエントリー",
+      "title_login": "マクドナルド公式アプリログイン",
+      "tips_enter_campaign": "エントリーしてスタンプをたくさん貯めよう！",
+      "tips_login": "まずマクドナルド公式アプリにログインしよう！",
+      "button_enter_campaign": "今すぐエントリー",
+      "button_login": "ログインする",
+      "button_register": "会員登録する"
+   },
+   "tutorial":{
+      "title_bar": "ご利用方法",
+      "title1": "バリューランチのセットを購入して\nスタンプを貯めよう！",
+      "title2": "スタンプ3個達成ごとに\n半額クーポンをGET！",
+      "description1": "※以下の場合は、スタンプ付与対象外となります。\n1. エントリー前のご購入\n2. バリューランチ コンビ\n3. 無料クーポンのご利用を含め、無料でご提供した商品\n4. ウェブサイトからのモバイルオーダーによるご注文\n5. 店頭での注文、マックデリバリー・UberEats等デリバリーサービスでのご購入\n\n※一度に複数の対象商品をご購入いただいた場合は、ご購入いただいた対象商品数分のスタンプがスタンプカードに反映されます。",
+      "description2": "※対象商品の購入からスタンプ・クーポンの反映には24時間以上かかる場合があります。",
+      "button_next": "次へ"
+   },
+   "main":{
+      "title": "バリューランチ スタンプ",
+      "stamp_tips": "※ご購入からスタンプ反映まで24時間程度かかる場合がございます",
+      "date_tips": "期間中何度でもチャレンジできます",
+      "link_to_tutorial_text": "チュートリアルを見る",
+      "faq_link_text": "よくあるご質問・利用規約・その他",
+      "campaign_end_tips": "本キャンペーンは終了しました。",
+      "campaign_daterange_text": "開催期間：06月18日（金）14:00まで",
+      "campaign_description": "※以下の場合は、スタンプ付与対象外となります。\n1. エントリー前のご購入\n2. バリューランチ コンビ\n3. 無料クーポンのご利用を含め、無料でご提供した商品\n4. ウェブサイトからのモバイルオーダーによるご注文\n5. 店頭での注文、マックデリバリー・UberEats等デリバリーサービスでのご購入\n\n※一度に複数の対象商品をご購入いただいた場合は、ご購入いただいた対象商品数分のスタンプがスタンプカードに反映されます。",
+      "required_stamps": 3,
+      "product_title": "対象商品",
+      "product_subtitle": "対象商品を選択してモバイルオーダー",
+      "card_unit": "枚目",
+      "coupons_link_title": "クーポンを表示する",
+      "coupons_expiry_explanation": "発行から14日間有効",
+      "coupons_description": "※使用済みのクーポン、および、有効期限切のクーポンは表示されません",
+      "stamp_placeholder_images": [
+         "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp1.png",
+         "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp2.png",
+         "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp3.png",
+         "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ico_vs_stamp4.png"
+      ]
+   },
+   "term":{
+      "title": "利用規約",
+      "sub_title_image": "https://www.stg.mcd.qorcommerce.com/mobile_assets/valuelunch-stamp-card/ic_vs_terms_header.png",
+      "tips": "※最後までお読みください",
+      "button": "同意してエントリー"
+   }
+}
